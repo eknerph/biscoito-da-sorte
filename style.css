@@ -12,7 +12,7 @@
 }
 
 body {
-  background: linear-gradient(45deg, #190361 0%, #BB00FF 100%);
+  background: linear-gradient(45deg, #3e06e9 0%, #400c53 100%);
   font-size: 1.6rem;
 
   display: grid;
@@ -29,7 +29,7 @@ body, button {
 }
 
 main {
-  width: min(42.8rem, 90%);
+  width: min(42.8rem, 70%);
   height: auto;
   padding: 4.8rem 6.4rem 6.4rem;
   
@@ -63,9 +63,12 @@ p {
 }
 
 .screen1 img {
-  width: 26.3rem;
-  height: 20rem;
+  width: 23.3rem;
+  height: 17rem;
+  text-align: left;
 }
+
+
 
 .screen1 button {
   background: none;
@@ -89,7 +92,7 @@ p {
 .screen2 h1 {
   font-family: "Montserrat", sans-serif;
   font-size: 2.6rem;  
-  margin-bottom: 14px;
+  margin-bottom: 1.4rem;
 }
 
 .screen2 h1 {
@@ -98,7 +101,7 @@ p {
 
 
 .screen2 form img {
-  width: 32rem;
+  width: 25rem;
   height: 24rem;
 }
 
@@ -123,7 +126,7 @@ p {
 .box {
   padding: 1rem;
   background: #e4edf1;
-  box-shadow: 2px 2px 2px rgba(85, 85, 85, 0.5);
+  box-shadow: .2rem .2rem .2rem rgba(85, 85, 85, 0.5);
   animation: aparecer 2.4s;
 }
 
@@ -131,6 +134,43 @@ p {
   font-family: "Dancing Script", sans-serif;
   font-size: 2.4rem;
   line-height: 2.9rem;
+}
+
+
+@media (max-width: 480px)  {
+ 
+  body {
+    background: linear-gradient(45deg, #235005 0%, #00ff6a 100%);
+    font-size: 1.6rem;
+  
+    display: grid;
+    place-items: center;
+    height: 100vh;
+  }
+ 
+ 
+  main {
+    width: min(42.8rem, 70%);
+    height: auto;
+    padding: 2.4rem 3.4rem 3.4rem;
+    
+    
+    background: #FFFFFF;
+    box-shadow: 0 .2rem .5rem rgba(0, 0, 0, 0.8);
+    border-radius: .5rem;  
+
+  }
+      .screen1 img {
+      width: 13.3rem;
+      height: 11rem;
+      text-align: left;
+    }
+
+
+    .screen2 form img {
+      width: 18rem;
+      height: 14rem;
+    }
 }
 
 @keyframes tremer {
