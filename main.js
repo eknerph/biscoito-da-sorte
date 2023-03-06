@@ -21,7 +21,7 @@ function handleBtnClick() {
 function getQuote() {
   const quote = new Array();
   quote[0] = "Todos os dias organiza os seus cabelos, por que não faz o mesmo com o coração?";
-  quote[1] = "Olhe para cima, que é delá que vem sua força!";
+  quote[1] = "Olhe para cima, que é de lá que vem sua força!";
   quote[2] = "A vida trará coisas boas se tiveres paciência";
   quote[3] = "A juventude não é uma época da vida, é um estado de espírito";
   quote[4] = "Não compense na ira o que lhe falta na razão";
