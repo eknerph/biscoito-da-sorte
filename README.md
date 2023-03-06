@@ -33,15 +33,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Biscoito_da_Sorte  é um agregador de links para usar como cartão de visitas online.
+O Biscoito_da_Sorte  é um biscoito pequeno, crocante e açucarado feito de farinha, açúcar, baunilha, óleo de gergelim e que contém dentro dele um pedaço de papel com uma "sorte", geralmente um aforismo ou uma profecia vaga. Pode conter também um grupo de números que são utilizados por alguns como números de loteria. É um agregador de linhas de texto para reflexionar seu dia com visitas online.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://eknerph.github.io/biscoito-da-sorte/)
 
 - [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/Jx1ikiuvMeBmTa6RSLpU3h/Biscoito-da-Sorte-(Community)?node-id=0%3A1&t=yYIILaRwrKpjI4Ty-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
